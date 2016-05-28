@@ -2,6 +2,6 @@
 void main()
 {
 	printf("Hello Sekai\n");
-	priintf("Yaoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
+	printf("NonxToung");
 
 }
